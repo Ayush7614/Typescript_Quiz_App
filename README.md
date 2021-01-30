@@ -1,22 +1,13 @@
 # diksha.github.io
 
-This is Automatic birthday wisher that wishes the birthday, play song, cut cake, and many things just try it in your browser
+This is React Typescript App Quiz Just try it i promise to you it is fun.
 
 ## Owner
 
 * [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
 
+* [Live Preview](https://typescript-quiz.herokuapp.com/)
 
-## Quick Start
-
-- Fork and Clone the repository using-
-```
-git clone https://github.com/Ayush7614/Typescript_Quiz_App.git
-```
-- Create a Branch- 
-```
-git checkout -b <branch_name>
-```
 ## web stack
 - HTML
 - CSS
@@ -25,7 +16,7 @@ git checkout -b <branch_name>
 - JSON
 - React
 
-### Contributing
+## Quick Start
 
 Are we missing any of your favorite features, which you think you can add to it? We invite you to contribute to this project and make it better. You may also raise an issue.
 To start contributing, follow the below guidelines: 
@@ -100,9 +91,9 @@ git push -u origin <your_branch_name>
  
 ## ❤️ Project Admin
 
-|                                     <a href="https://github.com/Ayush7614"><img src="https://avatars.githubusercontent.com/u/34435822?s=400&u=3d0a9718c74cf7c099a933e8b00be1284158e975&v=4" width=150px height=150px /></a>                                      |
+|                                     <a href="https://github.com/Ayush7614"><img src="https://avatars.githubusercontent.com/u/67006255?s=400&u=c0e16c3bba31328a028cfcca4b1fa7599509f905&v=4" width=150px height=150px /></a>                                      |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                      **[Shubham Gautam](https://www.linkedin.com/in/shubham-gautam-433019191/)**                                                                                    |
+|                                                                                      **[Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/)**                                                                                    |
 
 
 
