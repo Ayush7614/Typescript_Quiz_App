@@ -96,6 +96,17 @@ git push -u origin <your_branch_name>
 |                                                                                      **[Ayush Kumar](https://www.linkedin.com/in/ayush-kumar-%F0%9F%87%AE%F0%9F%87%B3-984443191/)**                                                                                    |
 
 
+## Future Scope of this Project:
+* Creating a beautiful website and navbar
+* View all the things what are doing this project and what is this
+* Adding more APIS we have also add option of True/False question with callung of APIS
+
+#### Kindly refer to future scopes for contribution
+
+---
+
+Feel free to contribute :smile:
+
 
 # Getting Started with Create React App
 
