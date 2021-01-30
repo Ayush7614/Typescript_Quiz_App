@@ -1,3 +1,111 @@
+# diksha.github.io
+
+This is Automatic birthday wisher that wishes the birthday, play song, cut cake, and many things just try it in your browser
+
+## Owner
+
+* [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
+
+
+## Quick Start
+
+- Fork and Clone the repository using-
+```
+git clone https://github.com/Ayush7614/Typescript_Quiz_App.git
+```
+- Create a Branch- 
+```
+git checkout -b <branch_name>
+```
+## web stack
+- HTML
+- CSS
+- JS
+- TYPESCRIPT
+- JSON
+- React
+
+### Contributing
+
+Are we missing any of your favorite features, which you think you can add to it? We invite you to contribute to this project and make it better. You may also raise an issue.
+To start contributing, follow the below guidelines: 
+
+**1.**  Fork [this](https://github.com/Ayush7614/Typescript_Quiz_App.git) repository.
+
+**2.**  Clone your forked copy of the project.
+
+```
+git clone --depth 1 https://github.com/<your_name>/Typescript_Quiz_App.git
+```
+
+**3.** Navigate to the project directory :file_folder: .
+
+```
+cd profiles-browser-extension
+```
+
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/Ayush7614/Typescript_Quiz_App.git
+```
+
+**5.** Check the remotes for this repository.
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
+```
+git pull upstream master
+```
+
+**7.** Create a new branch.
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** Perfom your desired changes to the code base.
+**9.** Track your changes:heavy_check_mark: .
+
+```
+git add . 
+```
+
+**10.** Commit your changes .
+
+```
+git commit -m "Relevant message"
+```
+
+**11.** Push the committed changes in your feature branch to your remote repo.
+```
+git push -u origin <your_branch_name>
+```
+
+**12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+
+
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+
+**14.** Click on `Create Pull Request`.
+
+
+**15** Voila! You have made a PR to the awesome-developer-portfolio project. Sit back patiently and relax while the your PR is reviewed. 
+
+ In case of any help, please free to contact me via mail @ ayushknj3@gmail.com
+ 
+## ❤️ Project Admin
+
+|                                     <a href="https://github.com/Ayush7614"><img src="https://avatars.githubusercontent.com/u/34435822?s=400&u=3d0a9718c74cf7c099a933e8b00be1284158e975&v=4" width=150px height=150px /></a>                                      |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                      **[Shubham Gautam](https://www.linkedin.com/in/shubham-gautam-433019191/)**                                                                                    |
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
