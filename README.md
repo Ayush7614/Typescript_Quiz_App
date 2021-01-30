@@ -1,4 +1,4 @@
-# diksha.github.io
+# Typescript_Quiz_App
 
 This is React Typescript App Quiz Just try it i promise to you it is fun.
 
