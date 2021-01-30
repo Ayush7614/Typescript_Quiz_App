@@ -32,7 +32,7 @@ git clone --depth 1 https://github.com/<your_name>/Typescript_Quiz_App.git
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd profiles-browser-extension
+cd Typescript_Quiz_App
 ```
 
 **4.** Add a reference(remote) to the original repository.
