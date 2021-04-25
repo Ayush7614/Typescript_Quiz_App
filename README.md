@@ -2,6 +2,9 @@
 
 This is React Typescript App Quiz Just try it i promise to you it is fun.
 
+![Typescript_Quiz_App](https://socialify.git.ci/Ayush7614/Typescript_Quiz_App/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Light)
+
+
 ## Owner
 
 * [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
